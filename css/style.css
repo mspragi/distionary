@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-image: url('/img/top-10-books-every-college-student-read-1024x640.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+        
+}
+.content{
+/* cs:hidden; */
+    width: 50%;
+    position: relative;
+    top: 200px;
+}
